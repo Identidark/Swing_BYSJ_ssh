@@ -9,7 +9,7 @@ import javax.swing.*;
  * @create: 2019-02-02 09:40
  **/
 
-public class practice {
+public class Swing_EZAccidence {
     public static void main(String args[]){
         //创建一个顶层容器窗口
         JFrame jf = new JFrame("测试窗口");             //创建窗口
